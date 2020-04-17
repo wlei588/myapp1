@@ -1,0 +1,14 @@
+C:\Users\Administrator.len-PC\source\repos\WpfApp1\obj\Release\WpfApp1.csprojAssemblyReference.cache
+C:\Users\Administrator.len-PC\source\repos\WpfApp1\obj\Release\MainWindow.baml
+C:\Users\Administrator.len-PC\source\repos\WpfApp1\obj\Release\Window1.baml
+C:\Users\Administrator.len-PC\source\repos\WpfApp1\obj\Release\MainWindow.g.cs
+C:\Users\Administrator.len-PC\source\repos\WpfApp1\obj\Release\Window1.g.cs
+C:\Users\Administrator.len-PC\source\repos\WpfApp1\obj\Release\App.g.cs
+C:\Users\Administrator.len-PC\source\repos\WpfApp1\obj\Release\WpfApp1_MarkupCompile.cache
+C:\Users\Administrator.len-PC\source\repos\WpfApp1\obj\Release\WpfApp1_MarkupCompile.lref
+C:\Users\Administrator.len-PC\source\repos\WpfApp1\obj\Release\App.baml
+C:\Users\Administrator.len-PC\source\repos\WpfApp1\obj\Release\WpfApp1.g.resources
+C:\Users\Administrator.len-PC\source\repos\WpfApp1\obj\Release\WpfApp1.Properties.Resources.resources
+C:\Users\Administrator.len-PC\source\repos\WpfApp1\obj\Release\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Administrator.len-PC\source\repos\WpfApp1\obj\Release\WpfApp1.exe.licenses
+C:\Users\Administrator.len-PC\source\repos\WpfApp1\obj\Release\WpfApp1.pdb
